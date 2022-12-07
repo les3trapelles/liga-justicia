@@ -1,0 +1,3 @@
+Barcelona
+New York
+Santander
