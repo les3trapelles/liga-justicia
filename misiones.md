@@ -6,3 +6,4 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 Modificacio a COPIA INICI dins de la branca
+Modificacio a COPIA INICI per la cara
