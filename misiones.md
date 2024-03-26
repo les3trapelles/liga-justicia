@@ -8,3 +8,4 @@
 Modificacio a COPIA INICI dins de la branca
 Modificacio a MAIN por la cara
 Modificacio a COPIA INICI per la cara
+Canvia a Segona Opcio que no ha canviat a main
